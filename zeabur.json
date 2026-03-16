@@ -1,0 +1,5 @@
+{
+  "$schema": "https://schema.zeabur.app/template.json",
+  "name": "PubMed MCP Server",
+  "description": "PubMed Search MCP Server for AI assistants"
+}
